@@ -74,30 +74,6 @@ I am always eager to learn new technologies and improve my problem-solving skill
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanuralbyice&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armanuralbyice&theme=tokyo-night" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=armanuralbyice&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: armanurhossainalbyice0@gmail.com  
